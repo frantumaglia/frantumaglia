@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frantumaglia
-- 👀 I’m interested in computational social science.
+- 👀 I’m interested in social science.
 - 🌱 I’m currently learning python.
 - 📫 Reach me at myzhou@bu.edu
 
